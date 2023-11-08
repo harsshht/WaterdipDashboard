@@ -69,10 +69,13 @@ The dashboard includes the following charts:
 3. **Sparkline Charts**: These sparkline charts show the total number of adult visitors and children visitors. The sparkline chart includes both the total number and a line chart for aggregation.
 
 ## Screenshots
-
+1
 ![Screenshot 0](/public/screenshots/wd0.png)
+2
 ![Screenshot 1](/public/screenshots/wd1.png)
+3
 ![Screenshot 2](/public/screenshots/wd2.png)
+4
 ![Screenshot 3](/public/screenshots/wd3.png)
 
 ## License
